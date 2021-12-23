@@ -1,4 +1,4 @@
-![Ali Farahani GitHub stats](https://github-readme-stats.vercel.app/api?username=a-m-farahani&show_icons=true&theme=merko)
+![Ali Farahani GitHub stats](https://github-readme-stats.vercel.app/api?username=a-m-farahani&show_icons=true&theme=gruvbox)
 <br/>
 
 - 👋 Hi, I’m Ali Farahani
