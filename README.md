@@ -5,7 +5,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Image Captioning and Multi-Task Learning
 - 📫 You can reach me by scanning QR code below:
-<img src="https://github.com/a-m-farahani/a-m-farahani/blob/main/me_qr.png" height=300px/>
+<img src="https://github.com/a-m-farahani/a-m-farahani/blob/main/me_qr.png" height=200px/>
 
 
 <!---
