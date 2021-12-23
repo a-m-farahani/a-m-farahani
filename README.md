@@ -1,13 +1,11 @@
+![Ali Farahani GitHub stats](https://github-readme-stats.vercel.app/api?username=a-m-farahani&show_icons=true&theme=merko)
+<br/>
+
 - 👋 Hi, I’m Ali Farahani
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Image Captioning and Multi-Task Learning
-- 💞️ I’m looking to collaborate on OpenAI projects
 - 📫 You can reach me by scanning QR code below:
 <img src="https://github.com/a-m-farahani/a-m-farahani/blob/main/me_qr.png" height=300px/>
-
-<br/>
-
-![Ali Farahani GitHub stats](https://github-readme-stats.vercel.app/api?username=a-m-farahani&show_icons=true&theme=radical)
 
 
 <!---
